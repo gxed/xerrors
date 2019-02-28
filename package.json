@@ -2,7 +2,7 @@
   "author": "anacrolix",
   "bugs": {},
   "gx": {
-    "dvcsimport": "github.com/anacrolix/xerrors"
+    "dvcsimport": "golang.org/x/xerrors"
   },
   "gxVersion": "0.14.0",
   "language": "go",
