@@ -22,4 +22,4 @@
 // If you want your error type to participate in the new formatting
 // implementation for %v and %+v, provide it with a Format method that calls
 // xerrors.FormatError, as shown in the example for FormatError.
-package xerrors // import "golang.org/x/xerrors"
+package xerrors
